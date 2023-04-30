@@ -7,11 +7,9 @@
 @base <http://www.semanticweb.org/alvarobarba/ontologies/2023/3/spanish-wine-ontology#> .
 
 <http://www.semanticweb.org/alvarobarba/ontologies/2023/3/spanish-wine-ontology> rdf:type owl:Ontology ;
-                                                                                  <http://purl.org/dc/elements/1.1/title> "spanish wine quality"@en ;
-                                                                                  rdfs:comment """Dataset author: fedesoriano
-Link: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset"""@en ;
-                                                                                  rdfs:label "spanish wine quality" ;
-                                                                                  owl:author "Álvaro Barba Sandoval" .
+                                                                                  rdfs:comment """Ontology for Spanish Wien made by Álvaro Barba Sandoval.
+Dataset author: fedesoriano.""" ;
+                                                                                  rdfs:label "Spanish Wine Quality" .
 
 #################################################################
 #    Annotation properties
