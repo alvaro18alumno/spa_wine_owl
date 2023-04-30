@@ -721,19 +721,11 @@
 }, {
   "@id" : "http://www.semanticweb.org/alvarobarba/ontologies/2023/3/spanish-wine-ontology",
   "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ],
-  "http://purl.org/dc/elements/1.1/title" : [ {
-    "@language" : "en",
-    "@value" : "spanish wine quality"
-  } ],
   "http://www.w3.org/2000/01/rdf-schema#comment" : [ {
-    "@language" : "en",
-    "@value" : "Dataset author: fedesoriano\nLink: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset"
+    "@value" : "Ontology for Spanish Wien made by Álvaro Barba Sandoval.\nDataset author: fedesoriano."
   } ],
   "http://www.w3.org/2000/01/rdf-schema#label" : [ {
-    "@value" : "spanish wine quality"
-  } ],
-  "http://www.w3.org/2002/07/owl#author" : [ {
-    "@value" : "Álvaro Barba Sandoval"
+    "@value" : "Spanish Wine Quality"
   } ]
 }, {
   "@id" : "http://www.semanticweb.org/alvarobarba/ontologies/2023/3/spanish-wine-ontology#200_Cestos_Godello",
