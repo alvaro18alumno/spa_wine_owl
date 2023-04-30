@@ -12,11 +12,9 @@
      xmlns:swrlb="http://www.w3.org/2003/11/swrlb#"
      xmlns:spanish-wine-ontology="http://www.semanticweb.org/alvarobarba/ontologies/2023/3/spanish-wine-ontology#">
     <owl:Ontology rdf:about="http://www.semanticweb.org/alvarobarba/ontologies/2023/3/spanish-wine-ontology">
-        <dc:title xml:lang="en">spanish wine quality</dc:title>
-        <rdfs:comment xml:lang="en">Dataset author: fedesoriano
-Link: https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset</rdfs:comment>
-        <rdfs:label>spanish wine quality</rdfs:label>
-        <owl:author>Álvaro Barba Sandoval</owl:author>
+        <rdfs:comment>Ontology for Spanish Wien made by Álvaro Barba Sandoval.
+Dataset author: fedesoriano.</rdfs:comment>
+        <rdfs:label>Spanish Wine Quality</rdfs:label>
     </owl:Ontology>
     
 
